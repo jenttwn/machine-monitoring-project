@@ -190,7 +190,7 @@ app.listen(PORT, () => {
     console.log('🚀 Cloudflare Tunnel Machine Data Proxy');
     console.log('='.repeat(60));
     console.log(`📍 Local:  http://localhost:${PORT}`);
-    console.log(`📡 Routes: /floor2, /floor3, /floor3s`);
+    console.log(`📡 Routes: /floor1, /floor2, /floor3`);
     console.log('\n🔧 Optimizations:');
     console.log('  ✅ Compression enabled');
     console.log('  ✅ Connection pooling (20 sockets)');

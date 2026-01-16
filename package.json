@@ -1,0 +1,21 @@
+{
+  "name": "machinesdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.7.0",
+    "axios": "^1.13.2",
+    "compression": "^1.8.1",
+    "express": "^5.2.1",
+    "http-proxy-middleware": "^3.0.5",
+    "ngrok": "^5.0.0-beta.2"
+  }
+}

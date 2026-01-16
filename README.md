@@ -16,17 +16,3 @@ Real-time monitoring system for factory machines across multiple floors using Cl
 - **Database:** Google Sheets via Apps Script
 - **Monitoring:** Floor 1, Floor 2, Floor 3
 
-## Tags/Topics :
-nodejs
-cloudflare
-google-apps-script
-iot
-monitoring
-factory
-industrial-automation
-proxy-server
-machine-learning
-data-collection
-google-sheets
-express
-thailand
